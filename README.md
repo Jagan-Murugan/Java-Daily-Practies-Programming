@@ -40,14 +40,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
