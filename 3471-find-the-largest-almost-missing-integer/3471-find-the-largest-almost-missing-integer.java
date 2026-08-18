@@ -19,7 +19,7 @@ class Solution {
         int ans = -1;
         for(int i = 0;i<= 50;i++){
             if(count[i] == 1){
-                ans = i;
+                ans = Math.max(ans,i);
             }
         }
         return ans;
