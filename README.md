@@ -12,6 +12,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3452-sum-of-good-numbers](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
