@@ -11,6 +11,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3151-special-array-i/) | Easy |
@@ -27,6 +28,7 @@
 | ------- | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
