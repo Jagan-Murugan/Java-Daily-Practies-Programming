@@ -69,6 +69,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3110-score-of-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
