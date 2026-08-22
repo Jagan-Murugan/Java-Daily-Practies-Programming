@@ -17,6 +17,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3151-special-array-i/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3452-sum-of-good-numbers/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -42,10 +43,12 @@
 | [0242-valid-anagram](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0242-valid-anagram/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
