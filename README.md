@@ -10,6 +10,7 @@
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -79,6 +80,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
