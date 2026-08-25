@@ -22,6 +22,7 @@
 | [3467-transform-array-by-parity](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3697-compute-decimal-representation/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
