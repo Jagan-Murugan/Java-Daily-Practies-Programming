@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Math
@@ -91,6 +92,7 @@
 | [0709-to-lower-case](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
