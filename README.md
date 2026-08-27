@@ -10,6 +10,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -110,6 +111,7 @@
 | [0045-jump-game-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0045-jump-game-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
