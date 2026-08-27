@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0045-jump-game-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0283-move-zeroes/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
@@ -144,6 +145,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
