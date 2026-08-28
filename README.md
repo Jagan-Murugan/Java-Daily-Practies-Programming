@@ -24,6 +24,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3151-special-array-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -83,6 +84,7 @@
 | [2716-minimize-string-length](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2716-minimize-string-length/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sliding Window
