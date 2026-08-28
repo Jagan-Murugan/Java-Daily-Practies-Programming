@@ -23,6 +23,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3151-special-array-i/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -39,6 +40,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@
 | ------- | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
