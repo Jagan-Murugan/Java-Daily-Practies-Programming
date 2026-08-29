@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0045-jump-game-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0283-move-zeroes/) | Easy |
@@ -116,6 +117,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0045-jump-game-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0509-fibonacci-number/) | Easy |
