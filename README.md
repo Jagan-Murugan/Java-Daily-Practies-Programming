@@ -112,6 +112,7 @@
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2716-minimize-string-length/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
