@@ -121,6 +121,7 @@
 | [2716-minimize-string-length](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2716-minimize-string-length/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3110-score-of-a-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0283-move-zeroes/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
