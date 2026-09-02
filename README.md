@@ -37,6 +37,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Matrix
@@ -51,6 +52,7 @@
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3110-score-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
