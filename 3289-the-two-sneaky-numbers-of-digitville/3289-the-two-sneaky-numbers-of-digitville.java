@@ -1,6 +1,6 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        int n = nums.length;
+        int n = nums.length-2;
         int[] freq = new int[n+1];
         for(int num : nums){
 
