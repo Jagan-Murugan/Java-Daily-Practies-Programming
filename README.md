@@ -29,6 +29,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3151-special-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3151-special-array-i/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3452-sum-of-good-numbers/) | Easy |
@@ -83,6 +84,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -96,6 +98,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
