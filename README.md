@@ -40,6 +40,7 @@
 | [3838-weighted-word-mapping](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
