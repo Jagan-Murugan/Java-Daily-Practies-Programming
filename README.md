@@ -118,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0065-valid-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0065-valid-number/) | Hard |
 | [0242-valid-anagram](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0242-valid-anagram/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0709-to-lower-case](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0709-to-lower-case/) | Easy |
