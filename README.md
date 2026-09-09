@@ -78,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -123,6 +125,7 @@
 | [0065-valid-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0065-valid-number/) | Hard |
 | [0242-valid-anagram](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0709-to-lower-case](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
@@ -206,4 +209,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
