@@ -60,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0045-jump-game-ii/) | Medium |
+| [0409-longest-palindrome](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0409-longest-palindrome/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -101,6 +102,7 @@
 | [0383-ransom-note](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0409-longest-palindrome](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0409-longest-palindrome/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2716-minimize-string-length/) | Easy |
@@ -127,6 +129,7 @@
 | [0383-ransom-note](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0409-longest-palindrome](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0409-longest-palindrome/) | Easy |
 | [0709-to-lower-case](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
