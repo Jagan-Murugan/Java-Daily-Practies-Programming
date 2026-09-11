@@ -125,6 +125,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0065-valid-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0065-valid-number/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0045-jump-game-ii/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0213-house-robber-ii/) | Medium |
