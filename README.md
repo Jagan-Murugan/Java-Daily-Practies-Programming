@@ -56,6 +56,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3959-check-good-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3959-check-good-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3697-compute-decimal-representation/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3959-check-good-integer](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3959-check-good-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
