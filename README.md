@@ -145,6 +145,7 @@
 | [3110-score-of-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3110-score-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
