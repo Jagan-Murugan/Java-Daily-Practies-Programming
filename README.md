@@ -136,6 +136,7 @@
 | [0709-to-lower-case](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0709-to-lower-case/) | Easy |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1694-reformat-phone-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1694-reformat-phone-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
