@@ -90,6 +90,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
@@ -222,4 +223,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
