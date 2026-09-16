@@ -93,6 +93,7 @@
 | [0836-rectangle-overlap](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1927-sum-game/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3697-compute-decimal-representation/) | Easy |
@@ -161,6 +162,7 @@
 | [0213-house-robber-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -227,4 +230,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0836-rectangle-overlap/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
