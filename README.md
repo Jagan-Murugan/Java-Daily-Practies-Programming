@@ -13,6 +13,7 @@
 | [0213-house-robber-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0283-move-zeroes/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -107,6 +108,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0409-longest-palindrome/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2716-minimize-string-length/) | Easy |
@@ -122,6 +124,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## String
@@ -162,6 +165,7 @@
 | [0213-house-robber-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Stack
@@ -204,6 +208,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
