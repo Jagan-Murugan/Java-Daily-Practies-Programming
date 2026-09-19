@@ -13,6 +13,7 @@
 | [0213-house-robber-ii](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0283-move-zeroes/) | Easy |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1528-shuffle-string/) | Easy |
@@ -48,6 +49,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
@@ -191,6 +193,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -210,6 +213,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 ## Bit Manipulation
@@ -241,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Jagan-Murugan/Java-Daily-Practies-Programming/tree/main/0363-max-sum-of-rectangle-no-larger-than-k/) | Hard |
 <!---LeetCode Topics End-->
